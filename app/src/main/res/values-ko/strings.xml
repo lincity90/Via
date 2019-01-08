@@ -46,7 +46,7 @@
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">Safari (iPhone)</string>
     <string name="agent_symbian">Nokia Browser</string>
-    <string name="agent_custom">사용자 정의</string>
+    <string name="agent_custom">사용자 정의</string
     <string name="title_search_engine">검색 엔진</string>
     <string name="action_ok">확인</string>
     <string name="dialog_download">Do you want to download this file?</string>
@@ -55,7 +55,7 @@
     <string name="title_user_agent">사용자 에이전트</string>
     <string name="title_custom_homepage">사용자 정의 홈페이지</string>
     <string name="action_webpage">웹페이지</string>
-    <string name="action_yes">확인</string>
+    <string name="action_yes">확인</strin
     <string name="action_no">취소</string>
     <string name="title_text_size">글자 크기</string>
     <string name="size_largest">가장 크게</string>
