@@ -405,6 +405,8 @@
 <string name="k2">동기화</string>
 <string name="k3">업로드</string>
 <string name="k5">스크롤할 볼륨 키</string>
+<string name="k6">웹페이지 디버깅 활성</string>
+<string name="k7">지금 전화기를 컴퓨터에 연결한 다음 \"chrome://inspect\"  를 사용하여 크롬(PC)으로 웹 페이지를 디버그 할 수 있습니다. 먼저 설정 > 개발자 옵션에서 USB 디버깅을 활성화 하셔야 됩니다.</string>
 <string name="k8">웹 페이지 스크린샷</string>
 <string name="k9">다음은 뭘까?</string>
 <string name="k_">비빌번호 틀림</string>
