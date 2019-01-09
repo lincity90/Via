@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="a">북마크 추가</string>
 <string name="b">홈에 추가</string>
@@ -86,8 +86,7 @@
 적용을 위해거 새로고침."</string>
 <string name="bm">임시 차단</string>
 <string name="bn">팝업 치단</string>
-<string name="bo">"북마크가 다음 경로로 내보내졌습니다.
-"</string>
+<string name="bo">"북마크가 다음 경로로 내보내졌습니다."</string>
 <string name="bp">북마크 데이터는 업로드하기엔 너무 크지만, 다른 데이터는 보통 업로드 될 것입니다. 계속하시겠습니까?</string>
 <string name="bq">북마크 내보내기</string>
 <string name="br">\"http\" 또는 \"https\" URL만 다운로드 될 수 있습니다.</string>
@@ -101,7 +100,7 @@
 <string name="bz">종료 후 캐시 지우기</string>
 <string name="c0">데이타 지우기</string>
 <string name="c1">종료 후 데이타 지우기</string>
-<string name="c2">불가능힌 서비스</string>
+<string name="c2">서비스 불가</string>
 <string name="c3">칼라 모드</string>
 <string name="c4">작업 표시줄의 자동 조정 색상</string>
 <string name="c5">종료 확인</string>
@@ -109,7 +108,7 @@
 <string name="c7">연락하기</string>
 <string name="c8">닫기</string>
 <string name="c9">앱이 충돌나서 정말 미안합니다.</string>
-<string name="c_">뭔가 잘못됐어 :(</string>
+<string name="c_">뭔가 잘못됨 :(</string>
 <string name="ca">재시작</string>
 <string name="cb">충돌 로그 업로드</string>
 <string name="cc">현재 언어</string>
@@ -119,8 +118,8 @@
 <string name="cg">캐쉬</string>
 <string name="ch">데이타 삭제됨</string>
 <string name="ci">쿠키</string>
-<string name="cj">데이타내버내기</string>
-<string name="ck">촘 데이타</string>
+<string name="cj">데이타 내보내기</string>
+<string name="ck">총 데이타</string>
 <string name="cl">히스토리</string>
 <string name="cm">웹 스토리지</string>
 <string name="cn">기본</string>
@@ -133,19 +132,14 @@
 <string name="cu">메뉴</string>
 <string name="cv">다른</string>
 <string name="cw">새로 고침</string>
-<string name="cx">페이지에서 칮기</string>
+<string name="cx">페이지에서 찾기</string>
 <string name="cy">제안</string>
 <string name="cz">탭</string>
-<string name="d0">"기본 차단: 광고 차단을 위해서 내부 hosts.txt 사용
-
-사용자 차단: 외부 hosts.txt 사용, 존재하지 않을 경우 다운로드 되는 파일을 사용"</string>
+<string name="d0">"기본 차단: 광고 차단을 위해서 내부 hosts.txt 사용, 사용자 차단: 외부 hosts.txt 사용, 존재하지 않을 경우 다운로드 되는 파일을 사용"</string>
 <string name="d1">사용자정의 차단</string>
-<string name="d2">"
-파일의 경로나 이름을 변경하지 마십시요. 이 파일을 편집하여 자신만의 차단 목록을 사용자 정의할 수 있습니다."</string>
+<string name="d2">"파일의 경로나 이름을 변경하지 마십시요. 이 파일을 편집하여 자신만의 차단 목록을 사용자 정의할 수 있습니다."</string>
 <string name="d3">기본 차단</string>
-<string name="d4">"다운로드 후에 자동선택됩니다.
-
-경로:"</string>
+<string name="d4">"다운로드 후에 자동선택됩니다. 경로:"</string>
 <string name="d5">이것을 광고로 표시하시겠습니까?</string>
 <string name="d6">이 파일을 다운로드하시겠습니까?</string>
 <string name="d7">메세지</string>
@@ -173,7 +167,7 @@
 <string name="dq">비밀번호를 입력해 주세요.</string>
 <string name="dr">스크립트 없음. 더하기 버튼을 클릭하여 스크립트를 추가하십시오. 또는 다음 버튼을 클릭하십시오.</string>
 <string name="ds">사용자 이름을 입력하십시오.</string>
-<string name="dt">\"Incognito\"을 비활성화하기 전에 모든 탭을 닫으시겠습닉가?</string>
+<string name="dt">\"Incognito\"을 비활성화하기 전에 모든 탭을 닫으시겠습니까?</string>
 <string name="du">익명 검색 종료</string>
 <string name="dv">북마크 내보내기</string>
 <string name="dw">데이타 내보내기</string>
@@ -181,7 +175,7 @@
 <string name="dy">피드백</string>
 <string name="dz">파일 크기</string>
 <string name="e0">다음 찾기</string>
-<string name="e1">마지막 칮기</string>
+<string name="e1">마지막 찾기</string>
 <string name="e2">강제 닫기</string>
 <string name="e3">강제 줌 가능</string>
 <string name="e4">바 자동 숨김</string>
@@ -225,7 +219,7 @@
 <string name="f2">"클립보드에서 링크를 여시겠습니까?
 링크: %1$s"</string>
 <string name="f3">익명모드 오프</string>
-<string name="f4">악명모드 입니다</string>
+<string name="f4">익명모드 입니다</string>
 <string name="f5">설치</string>
 <string name="f6">추가 기능을 다운로드하여 설치하시겠습니까? 추가 기능은 설치 후 작동합니다.</string>
 <string name="f7">설치 성공!!!</string>
@@ -235,23 +229,20 @@
 <string name="fa">떠나기</string>
 <string name="fb">로컬 저장소</string>
 <string name="fc">위치 정보 액세스</string>
-<string name="fd">"위치: Google 지도와 같은 사이트의 경우, 설정에서 기본적으로 비활성화되며, 사용 가능할 때 해당 사이트를 사용할 수 있는지 묻는 팝업이 표시됩니다.
-
-"</string>
+<string name="fd">"위치: Google 지도와 같은 사이트의 경우, 설정에서 기본적으로 비활성화되며, 사용 가능할 때 해당 사이트를 사용할 수 있는지 묻는 팝업이 표시됩니다."</string>
+ <string name="cannot_undo">실행 취소가 불가합니다.</string>
 <string name="fe">로그인 성공</string>
 <string name="ff">로그 아웃?</string>
-<string name="fg">"차단된 목록은 %1$s
-목록을 변경하기 위해 편집하거나 다음 항목을 길게 눌러 차단 여부를 선택할 수 있습니다"</string>
+<string name="fg">"차단된 목록은 %1$s 목록을 변경하기 위해 편집하거나 다음 항목을 길게 눌러 차단 여부를 선택할 수 있습니다"</string>
 <string name="fh">북마크 추가에 성공했습니다.</string>
 <string name="fi">사이트 인증서 날짜가 잘못됨. 그래도 계속하시겠습니까?</string>
 <string name="fk">나가기 위해 한번 더 눌러주십시오</string>
-<string name="fl">사이트의 인증서가 만료음. 그래도?</string>
+<string name="fl">사이트의 인증서가 만료임. 그래도 계속 진행하시겠습니까?</string>
 <string name="fm">데이터를 다시 보내시겠습니까?</string>
 <string name="fn">사이트의 인증서가 호스트 이름과 일치하지 않음 계속 진행 할까요?</string>
 <string name="fo">북마크를 불러왔습니다.</string>
 <string name="fp">그 사이트의 인증서가 유효하지 않습니다. 어쨌든 계속 진행 할까요?</string>
-<string name="fq">"
-위치를 사용하시겠습니까?"</string>
+<string name="fq">"위치를 사용하시겠습니까?"</string>
 <string name="fr">그 사이트의 인증서는 아직 유효하지 않다. 어쨌든 계속 진행 할까요?</string>
 <string name="fs">사이트 인증서를 신뢰할 수 없습니다. 어쨌든 계속 진행 할까요?</string>
 <string name="ft">Android 시스템 WebView가 올바르게 설치되지 않음 지금 설치하시겠습니까?</string>
@@ -300,9 +291,7 @@
 <string name="h0">제목:</string>
 <string name="h1">페이지 URL:</string>
 <string name="h2">비밀번호 저장</string>
-<string name="h3">"전화: 비개인 Android 장치 정보를 사용하여 간단한 통계를 작성하고 FC일 때 오류 예외를 수집하기 위한 기능.
-
-"</string>
+<string name="h3">"전화: 비개인 Android 장치 정보를 사용하여 간단한 통계를 작성하고 FC일 때 오류 예외를 수집하기 위한 기능."</string>
 <string name="h4">사진</string>
 <string name="h6">제스처로 새로 고치려면 당김</string>
 <string name="h7">다시 로드하지 않고 뒤로 이동</string>
@@ -310,8 +299,7 @@
 <string name="h9">미리 볼 항목을 클릭하고 다운로드하거나 다른 작업을 수행하려면 항목을 길게 클릭하십시오.</string>
 <string name="h_">리소스 스나이퍼</string>
 <string name="ha">리소스 스나이퍼</string>
-<string name="hb">"
-음악이나 비디오가 재생될 때 미디어 파일을 감지하는 것이 더 쉽다. 리소스 스나이저가 특정 웹 사이트에서 작동하지 않음"</string>
+<string name="hb">"음악이나 비디오가 재생될 때 미디어 파일을 감지하는 것이 더 쉽다. 리소스 스나이저가 특정 웹 사이트에서 작동하지 않음"</string>
 <string name="hc">시작 시 복원 탭</string>
 <string name="hd">마지막으로 닫히지 않은 탭 복원?</string>
 <string name="he">\"Incognito Mode\" 경우 탭이 복원되지 않음.</string>
@@ -368,9 +356,7 @@
 <string name="ir">Sougou</string>
 <string name="is">시작 페이지</string>
 <string name="it">머물기</string>
-<string name="iu">"저장: 브라우저에서 파일 다운로드 및 북마크 가져오기/내보내기 등
-
-"</string>
+<string name="iu">"저장: 브라우저에서 파일 다운로드 및 북마크 가져오기/내보내기 등"</string>
 <string name="iv">계정이 존재하지 않으면 생성됨</string>
 <string name="iw">당신의 현재 로컬 북마크와 설정을 덮어쓸 것입니다.. 계속하시겠습니까?</string>
 <string name="ix">동기화 완료</string>
